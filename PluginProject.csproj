@@ -2,8 +2,8 @@
     
     <!-- Plugin Info -->
     <PropertyGroup>
-        <ProjectName>RG_PluginTemplate</ProjectName>
-        <Description>Plugin Description...</Description>
+        <ProjectName>RG_MyOwnPerfectHLife</ProjectName>
+        <Description>Plugin for RoomGirl. Provides with options of H life to fulfill your own preferences.</Description>
         <Version>0.0.1</Version>
         <Company>wad8989</Company>
     </PropertyGroup>

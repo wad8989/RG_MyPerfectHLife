@@ -20,7 +20,7 @@ using UnhollowerRuntimeLib;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace RG_PluginTemplate
+namespace RG_MyOwnPerfectHLife
 {
     [BepInProcess("RoomGirl")]
     [BepInPlugin(GUID, NAME, VERSION)]
@@ -30,13 +30,13 @@ namespace RG_PluginTemplate
         /// Human-readable name of the plugin. In general, it should be short and concise.
         /// This is the name that is shown to the users who run BepInEx and to modders that inspect BepInEx logs. 
         /// </summary>
-        public const string NAME = "RoomGirl:PluginTemplate";
+        public const string NAME = "RoomGirl:H.MyOwnPerfectHLife";
         /// <summary>
         /// Unique ID of the plugin. Will be used as the default config file name.
         /// This must be a unique string that contains only characters a-z, 0-9 underscores (_) and dots (.)
         /// When creating Harmony patches or any persisting data, it's best to use this ID for easier identification.
         /// </summary>
-        public const string GUID = "com.wad8989.RG.Template";
+        public const string GUID = "com.wad8989.RG.H.MyOwnPerfectHLife";
 
         /// <summary>
         /// Version of the plugin. Must be in form <major>.<minor>.<build>.<revision>.

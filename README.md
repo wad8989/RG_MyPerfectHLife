@@ -1,7 +1,18 @@
-# RG_PluginTemplate
+# RG_MyOwnPerfectHLife
 
-Basic project template for making plugin for RoomGirl with Visual Studio Code.
+Plugin for RoomGirl. Provides with options of H life to fulfill your own preferences.
 
-## Special Thanks
-- @SpockBauru/BepInEx_IL2CPP_Template
-https://github.com/SpockBauru/BepInEx_IL2CPP_Template.git
+## Goals
+
+- Adjustable ecstasy gauge speed for male and female each
+  - ecstasy gauge speed for female during non-sensitive speed
+- Hands-free auto mode
+  - Male orgasm options 
+    - Together / In / Out
+    - Times after female orgasm
+  - Style switching
+    - foreplay <-> foreplay --> intercourse <-> intercourse
+    - Frequency
+    - Chance
+    - Real-time approval
+- Cinematric Camera (Future)
