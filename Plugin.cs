@@ -58,6 +58,8 @@ namespace RG_MyOwnPerfectHLife
         {
             Log = base.Log;
 
+            Log.LogMessage("Loaded");
+
             _configEntry = Config.Bind("General", "Enable this plugin", true, "If false, this plugin will do nothing");
 
             if (_configEntry.Value)
