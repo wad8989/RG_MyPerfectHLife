@@ -4,15 +4,17 @@ Plugin for RoomGirl. Provides with options of H life to fulfill your own prefere
 
 ## Goals
 
-- Adjustable ecstasy gauge speed for male and female each
-  - ecstasy gauge speed for female during non-sensitive speed
+- Adjustable ecstasy gauge speed
+  - Ecstasy gauge speed seperated for male and female
+  - Ecstasy gauge speed for female during non-sensitive speed
 - Hands-free auto mode
   - Male orgasm options 
-    - Together / In / Out
-    - Times after female orgasm
+    - Automatic orgasm - checkbox for Together / In / Out
+      - Waiting for certain number of female orgasm
+      - Holding for seconds after gauge full
   - Style switching
-    - foreplay <-> foreplay --> intercourse <-> intercourse
+    - [Foreplay <-> Foreplay] --> [Intercourse <-> Intercourse]
     - Frequency
     - Chance
-    - Real-time approval
+    - Ask for approval for switching
 - Cinematric Camera (Future)
